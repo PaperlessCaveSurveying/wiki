@@ -6,7 +6,7 @@ The “paperless system” is an integrated electronic cave surveying tool. It c
 
 The two devices are connected by a wireless Bluetooth connection. Measurements are visible on the mobile app screen within seconds. Results can be transferred to PC based cave surveying applications and graphics editors.
 
-# Status
+## Status
 
 The project has started in 2023. Development and intense testing has to be done.
 
