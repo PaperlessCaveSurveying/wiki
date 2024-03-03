@@ -1,3 +1,3 @@
-# getting started with Disto X6-Speleo
+# getting started with **Disto X6-Speleo**
 
 TODO

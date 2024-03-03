@@ -1,6 +1,6 @@
 <img src="Images/Leica_DISTO_X6_front_right-nobg_1.png">
 
-# Disto X6-Speleo
+# **Disto X6-Speleo**
 
 The **paperless system** is an integrated electronic cave surveying tool. It consists of two parts: A combined Disto/compass/clinometer and a mobile based app to store and manage the measured data and to draw sketches directly on the screen.
 
